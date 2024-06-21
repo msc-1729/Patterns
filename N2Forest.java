@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class N2Forest {
+public class n2Forest {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         System.out.println("You have these choices for printing the N2 forest:");
@@ -95,7 +95,7 @@ public class N2Forest {
 
 // import java.util.Scanner;
 
-// public class N2Forest {
+// public class n2Forest {
 //     public static void main(String[] args){
 //         Scanner scan = new Scanner(System.in);
 //         System.out.println("You have these choices for printing the N2 forest:");
